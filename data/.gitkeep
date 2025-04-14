@@ -1,0 +1,2 @@
+# Đây là file giữ chỗ để đảm bảo thư mục data được giữ lại khi sử dụng git
+# và giúp PyInstaller tìm thấy thư mục này khi đóng gói ứng dụng 

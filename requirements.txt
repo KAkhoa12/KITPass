@@ -1,0 +1,4 @@
+pyperclip==1.8.2
+pyinstaller==6.3.0
+pywin32==306
+winshell==0.6 

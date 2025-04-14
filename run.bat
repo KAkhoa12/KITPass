@@ -1,0 +1,3 @@
+@echo off
+echo Dang khoi dong KITPass...
+python src\main.py 
